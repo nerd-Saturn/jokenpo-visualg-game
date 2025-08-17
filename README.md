@@ -14,9 +14,13 @@ Um jogo simples de **Pedra, Papel e Tesoura (Jokenpô)** feito em Visualg 3.0 co
 
 ##  Demonstrações
 * Pedido dos nomes
+  <br>
   <img width="554" height="362" alt="image" src="https://github.com/user-attachments/assets/848246d6-63ff-450a-9534-bb6de57db6d0" />
+  <br>
 * Escolha das jogadas
+* <br>
  <img width="568" height="345" alt="image" src="https://github.com/user-attachments/assets/46bd2c62-d697-4641-8640-ed2416890e24" />
+ <br>
 *  Resultado e placar parcial
    <img width="559" height="347" alt="image" src="https://github.com/user-attachments/assets/74b91ebf-cf8e-45fb-8bb7-115670c085ec" />
 * Placar final
